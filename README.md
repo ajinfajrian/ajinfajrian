@@ -1,8 +1,8 @@
 ### Hi there 👋
 ---
-My name is Fajrian, I live in Tangerang :indonesia:	
+My name is Fajrian, I'am from Indonesia :indonesia:	
 
-- 🔭 I’m currently working on Btech as Cloud Engineer
+- 🔭 I’m currently working on Cloud Engineer
 - 🌱 I’m currently learning Devops, Golang & Microservices
 - 📫 How to reach me: fajrian.ajin@gmail.com
 
