@@ -17,7 +17,7 @@
 ---
 My name is Fajrian, I'am from Indonesia :indonesia:	
 
-- 🔭 I’m currently working on Cloud Engineer
+- 🔭 I’m currently working as Cloud Engineer
 - 🌱 I’m currently learning Devops, Golang & Microservices
 - 📫 How to reach me: [Fajrian's Mail](mailto:fajrian.ajin@gmail.com)
 
